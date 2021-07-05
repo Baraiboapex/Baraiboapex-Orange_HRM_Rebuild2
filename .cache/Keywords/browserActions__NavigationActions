@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "43B0DCAD5C407D22BF5876FF3242A63E",
+  "keywordClasses": [
+    {
+      "name": "browserActions.NavigationActions",
+      "keywordMethods": [
+        {
+          "name": "LoginToApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

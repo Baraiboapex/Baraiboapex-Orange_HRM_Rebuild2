@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>user_nav_directory_menu</name>
+   <tag></tag>
+   <elementGuidId>730aa5cf-31d3-4b4c-807a-70609e17cbf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='mainMenu']//b[contains(text(),'Directory')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='mainMenu']//b[contains(text(),'Directory')]</value>
+   </webElementProperties>
+</WebElementEntity>

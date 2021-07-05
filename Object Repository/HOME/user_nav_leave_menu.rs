@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>user_nav_leave_menu</name>
+   <tag></tag>
+   <elementGuidId>0e555d1d-42bc-4533-9f5c-562d8ca1cc29</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='mainMenu']//b[contains(text(),'Leave')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='mainMenu']//b[contains(text(),'Leave')]</value>
+   </webElementProperties>
+</WebElementEntity>

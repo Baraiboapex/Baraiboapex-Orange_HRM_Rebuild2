@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "3F6A6D5DB9292ED9B5A2FEC285452D8E",
+  "keywordClasses": [
+    {
+      "name": "browserActions.EnvironmentActions",
+      "keywordMethods": [
+        {
+          "name": "GoToApp",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
